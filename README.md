@@ -7,7 +7,7 @@ A SwiftUI framework for managing subscription paywalls and premium features with
 - 🔒 Easy subscription gating for premium features
 - 💳 Built-in paywall UI with RevenueCat integration
 - ✨ Customizable configuration for different apps
-- 📱 Cross-platform support (iOS, macOS)
+- 📱 iOS 17+
 - 🎨 Customizable colors and branding
 - ✅ Subscription confirmation views
 
@@ -175,7 +175,7 @@ struct SettingsView: View {
 
 ## Requirements
 
-- iOS 17.0+ / macOS 14.0+
+- iOS 17.0+
 - Swift 5.9+
 - RevenueCat account with configured products
 
